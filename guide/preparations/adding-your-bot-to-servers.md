@@ -32,7 +32,7 @@ As mentioned above, you'll need to replace the `client_id` parameter with your c
 
 Insert your app's ID into the link template and then access it in your browser. You should see something like this (with your bot's username and avatar):
 
-![Bot Authorization field](~@/images/A8l70bj.png)
+https://www.dropbox.com/s/9dtgyjmshg5yg1r/Tutorial%20bot%20add.png?dl=0 - picture of adding bot
 
 Choose the server you want to add it to and click "Authorize". Do note that you'll need the "Manage Server" permission on a server in order to be able to add your bot there. This should then present you a nice confirmation message:
 
